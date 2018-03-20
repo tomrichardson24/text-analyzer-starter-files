@@ -23,6 +23,7 @@ label {
   display: none;
 }
 
+
 .text-report dt:after {
   content: ": ";
 }
